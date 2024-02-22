@@ -84,6 +84,8 @@ Hệ thống tưới tiêu thông minh cho chậu cây mini sử dụng cảm bi
   </a>
 </div>
 
+<br>
+
 ## Đóng góp
 
 - <span style="color:#ff9933">**Các điểm tích cực**</span>
