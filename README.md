@@ -82,7 +82,7 @@ Arduino Uno R3 là hình ảnh chỉ mang tính chất minh hoạ, project này 
 ## Video demo sản phẩm
 
 <div style="text-align: center;">
-  <a href="https://youtu.be/JuRrFCtUuzU" target="_blank">
+  <a href="https://youtu.be/6IFA8qZ6_Kg" target="_blank">
     <img src="https://drive.google.com/uc?id=1Ty28f8SqwLyGBMBXKwb2h6q4sl1AMCYN&export=download" alt="Video thumbnail" width="1920" height="425">
   </a>
 </div>
