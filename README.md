@@ -68,21 +68,24 @@ Hệ thống tưới tiêu thông minh cho chậu cây mini sử dụng cảm bi
 
 ## Schematic
 
+Arduino Uno R3 là hình ảnh chỉ mang tính chất minh hoạ, Project này đang sử dụng Board CK-RA6M5 😁:
+
 <div style="text-align: center;">
   <a href="https://drive.google.com/uc?id=1McouYJx6DSRdSDsLtI-h4RQH-V1U_Uc3&export=download target="_blank">
     <img src="https://drive.google.com/uc?id=1McouYJx6DSRdSDsLtI-h4RQH-V1U_Uc3&export=download" alt="Video thumbnail" width="1920" height="555">
   </a>
 </div>
-
-<br>
+  <br>
 
 <!-- ## Video demo sản phẩm -->
 
 ## Video demo sản phẩm
 
-[![Video thumbnail](https://drive.google.com/uc?id=1Ty28f8SqwLyGBMBXKwb2h6q4sl1AMCYN&export=download)](https://youtu.be/6IFA8qZ6_Kg)
-
-<br>
+<div style="text-align: center;">
+  <a href="https://youtu.be/JuRrFCtUuzU" target="_blank">
+    <img src="https://drive.google.com/uc?id=1Ty28f8SqwLyGBMBXKwb2h6q4sl1AMCYN&export=download" alt="Video thumbnail" width="1920" height="425">
+  </a>
+</div>
 
 ## Đóng góp
 
