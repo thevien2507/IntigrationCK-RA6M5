@@ -76,13 +76,11 @@ Hệ thống tưới tiêu thông minh cho chậu cây mini sử dụng cảm bi
 
 <br>
 
+<!-- ## Video demo sản phẩm -->
+
 ## Video demo sản phẩm
 
-<div style="text-align: center;">
-  <a href="https://youtu.be/6IFA8qZ6_Kg" target="_blank">
-    <img src="https://drive.google.com/uc?id=1Ty28f8SqwLyGBMBXKwb2h6q4sl1AMCYN&export=download" alt="Video" width="1920" height="425">
-  </a>
-</div>
+[![Video thumbnail](https://drive.google.com/uc?id=1Ty28f8SqwLyGBMBXKwb2h6q4sl1AMCYN&export=download)](https://youtu.be/6IFA8qZ6_Kg)
 
 <br>
 
