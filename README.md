@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong><code style="color: name_color; font-size: 18px;">Quản lý nhân sự, phòng ban và task 📋</code>
+  <strong><code style="color: name_color; font-size: 18px;">Cảm biến ánh sáng, độ ẩm, nhiệt độ và độ ẩm đất 🎋</code>
 </strong></p>
 
 <br>
