@@ -1,0 +1,11 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+arg1 = $(1)
+export PATH=C:\Renesas\RA\e2studio_v2023-10_fsp_v5.1.0\toolchains\gcc_arm\13.2.rel1\bin\;C:\Renesas\RA\e2studio_v2023-10_fsp_v5.1.0\eclipse\plugins\com.renesas.ide.exttools.busybox.win32.x86_64_1.3.6.v20230615-0931\bin\;C:\Renesas\RA\e2studio_v2023-10_fsp_v5.1.0\eclipse\plugins\com.renesas.ide.exttools.gnumake.win32.x86_64_4.3.0.v20220121-1024\mk\;C:\Renesas\RA\e2studio_v2023-10_fsp_v5.1.0\eclipse\plugins\com.renesas.ide.exttools.scandep.win32.x86_64_1.0.0.v20230915-1033\sd\;C:/Renesas/RA/e2studio_v2023-10_fsp_v5.1.0/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.8.v20230801-1951/jre/bin/server;C:/Renesas/RA/e2studio_v2023-10_fsp_v5.1.0/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.8.v20230801-1951/jre/bin;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;D:\msys\Python\Scripts\;D:\msys\Python\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\mingw32\bin;D:\msys\mingw64\bin;;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Users\ADMIN\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;D:\mingw32\bin;D:\msys\mingw64\bin;;C:\Renesas\RA\e2studio_v2023-10_fsp_v5.1.0\eclipse
+export TCINSTALL=C:\Renesas\RA\e2studio_v2023-10_fsp_v5.1.0\toolchains\gcc_arm\13.2.rel1$(call arg1,\)
+export CWD=$(CURDIR)
+export TC_VERSION=13.2.1.arm-13-7
+export PWD=$(CURDIR)
+export GCC_VERSION=13.2.1
