@@ -63,7 +63,8 @@ Hệ thống tưới tiêu thông minh cho chậu cây mini sử dụng cảm bi
 - <span style="color:#ff9933">**Phát âm thanh**</span>
 
   - Nếu trong bình chứa nước đang thiếu nước, âm thanh sẽ được phát ra liên tục để báo hiệu cho người dùng biết cần cung cấp thêm nước vào bình chứa nước, khi đã đủ lượng nước, hệ thống sẽ bắt đầu quá trình tưới cây.
-    <br>
+
+<br>
 
 ## Schematic
 
@@ -79,7 +80,7 @@ Hệ thống tưới tiêu thông minh cho chậu cây mini sử dụng cảm bi
 
 <div style="text-align: center;">
   <a href="https://youtu.be/6IFA8qZ6_Kg" target="_blank">
-    <img src="https://drive.google.com/uc?id=1Ty28f8SqwLyGBMBXKwb2h6q4sl1AMCYN&export=download" alt="Video thumbnail" width="1920" height="425">
+    <img src="https://drive.google.com/uc?id=1Ty28f8SqwLyGBMBXKwb2h6q4sl1AMCYN&export=download" alt="Video" width="1920" height="425">
   </a>
 </div>
 
